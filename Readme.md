@@ -251,9 +251,16 @@ This repository organizes the **good clans** from *Beat of Barriers*, showing th
 
 ---
 
+# Beat of Barriers – Good Clans Reference
+
+This repository organizes the **good clans** from *Beat of Barriers*, showing their hierarchy, stages, powers, armies, and signature weapons, including **Final and OD tiers**.
+
+---
+
 ## Heroes & Clans
 
 | Type    | Name       | Clan / Faction   | Stage / Tier | Aura                | Power / Ability                                               | Description / Notes                                           | Signature Weapon(s)           | Weapon Description                                       | Possible Army / Followers       | Army Notes                                          | Seasons / Episodes / Chapters          |
+| ------- | ---------- | ---------------- | ------------ | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------- | ------------------------------- | -------------------------------------------------- | ------------------------------------ |
 | Hero    | Yaswanth  | Black Spot       | Beginner     | Void Spark          | Null Pulse                                                   | Cancels attacks automatically; protective aura activates      | Null Shard                  | Small void crystal blade; absorbs minor attacks       | Shadowlings                     | Tiny void constructs; early detection and guard   | Seasons 1–2 / Episodes 1–60 / Chapters 1–120 |
 | Hero    | Yaswanth  | Black Spot       | Mid          | Void Ember          | Null Collapse                                                | Suppresses nearby abilities; drains enemy energy             | Eclipse Gauntlets           | Gauntlets that pull in and suppress enemy energy     | Wraith Sentinels                | Agile semi-intangible soldiers; drain enemy aura  | Seasons 3–6 / Episodes 61–180 / Chapters 121–360 |
 | Hero    | Yaswanth  | Black Spot       | Advanced     | Abyss Resonance     | Void Dominance                                               | Controls battlefield zones; weakens enemies                  | Resonant Saber              | Sword forged from resonating void energy; bends battlefield rules | Void Vanguard                  | Elite phased soldiers; control battlefield zones | Seasons 7–12 / Episodes 181–360 / Chapters 361–720 |
@@ -271,7 +278,6 @@ This repository organizes the **good clans** from *Beat of Barriers*, showing th
 | Hero    | Silar      | Phase Spiral     | Advanced     | Spiral Rift         | Spatial Crush                                                | Distorts space to trap opponents                              | Spiral Swords              | Twin swords distorting zones                              | Spatial Battalion              | Soldiers manipulating battlefield zones; tactical advantage | Seasons 7–12 / Episodes 181–360 / Chapters 361–720 |
 | Hero    | Silar      | Phase Spiral     | Final        | Void Spiral         | Oblivion Spiral                                              | Creates zones where reality is twisted                        | Void Orb Scepter           | Scepter manipulating reality zones                        | Oblivion Brigade               | Elite units in warped spaces; control enemy movement | Seasons 13–18 / Episodes 361–540 / Chapters 721–1080 |
 | Hero    | Silar      | Phase Spiral     | OD           | Infinite Spiral     | Divine Geometry                                              | Manipulates micro-layers of reality                           | Infinity Spiral Rod        | Rod bending micro-reality layers                           | Infinite Phalanx               | Extremely powerful autonomous army; micro-manipulates battlefield | Seasons 19–50 / Episodes 541–1500 / Chapters 1081–3000+ |
-
 | Hero    | Tony       | Shadow Veil      | Beginner     | Shadow Mist         | Mist Clone                                                   | Creates weak duplicate to distract enemies                     | Shadow Shards             | Tiny daggers creating weak illusions                       | Mistlings                     | Low-level illusions; distract enemies                  | Seasons 1–2 / Episodes 1–60 / Chapters 1–120 |
 | Hero    | Tony       | Shadow Veil      | Mid          | Dark Veil           | Phantom Dash                                                 | Shadow teleport; evasive maneuvers                             | Phantom Whip              | Shadow whip striking unseen angles                          | Shadow Strikers               | Stealthy soldiers; hit-and-run specialists             | Seasons 3–6 / Episodes 61–180 / Chapters 121–360 |
 | Hero    | Tony       | Shadow Veil      | Advanced     | Shade Eclipse       | Void Illusion                                                | Illusions that can physically harm                             | Shade Bow                 | Bow firing illusionary projectiles                          | Illusion Guard                | Medium army; confuse and mislead enemies               | Seasons 7–12 / Episodes 181–360 / Chapters 361–720 |
@@ -288,4 +294,6 @@ This repository organizes the **good clans** from *Beat of Barriers*, showing th
 - Use this table to **track hero progression**, abilities, armies, and signature weapons across **all 50 seasons**.
 
 ---
+
+
 
