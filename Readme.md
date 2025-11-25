@@ -99,3 +99,148 @@ A multiverse-spanning story where heroes with unique abilities fight against vil
 
 ---
 
+# Beat of Barriers – Universe Subclans
+
+This document organizes **all heroes and armies as subclans under the 8 main villains**, keeping heroes independent and not blood-related. Heroes can be considered **sub-subclans** for hierarchy and story purposes.
+
+---
+
+## Villains & Subclans
+
+<details>
+<summary>Villain 1: Nihilum Sovereign</summary>
+
+### Subclans
+- Eternal Constructs – Infinite void entities; autonomous battlefield units  
+- Legion of Erasure – Nearly immortal army  
+- Void Vanguard – Elite phased soldiers controlling zones  
+- Wraith Sentinels – Semi-intangible soldiers draining enemy aura  
+- Shadowlings – Tiny autonomous void constructs  
+- Oblivion Phalanx – Heavy soldiers suppressing powers  
+- Infinity Staff Unit – Operates on system-level reality manipulation  
+
+</details>
+
+<details>
+<summary>Villain 2: Varkul (Ember Abyss)</summary>
+
+### Subclans
+- Pyro Sentinels – Low-level fire army units  
+- Inferno Legion – Medium-tier fire army  
+- Sunward Guards – Elite fire melee soldiers  
+- Nova Battalion – Artillery specialists  
+- Immortal Flames – Small elite destructive unit  
+- Ember Knuckles Corps – Explosive gauntlet wielders  
+- Flamebow Division – Archers with concentrated heat energy  
+
+</details>
+
+<details>
+<summary>Villain 3: Sorith (Shadowed Veil)</summary>
+
+### Subclans
+- Mistlings – Weak illusion soldiers  
+- Shadow Strikers – Stealthy hit-and-run units  
+- Illusion Guard – Medium army creating harmful illusions  
+- Phantom Legion – Advanced stealth & illusion army  
+- Eternal Shadows – Elite autonomous shadow units  
+- Shadow Shards Squad – Small unit creating distracting illusions  
+- Phantom Whip Unit – Stealth combat specialists  
+
+</details>
+
+<details>
+<summary>Villain 4: Zyphra (Mirage Spiral)</summary>
+
+### Subclans
+- Mirage Legion – Soldiers using illusions tactically  
+- Mirage Blades Division – Twin swords creating visual traps  
+- Illusory Phantoms – Small scout unit confusing enemies  
+- Spiral Tricksters – Tactical illusion manipulators  
+- Illusionary Sentinels – Medium-level illusion soldiers  
+- Shadow Mirage Guards – Ambush-oriented illusions  
+- Ethereal Mirage Corps – Elite illusion-based operatives  
+
+</details>
+
+<details>
+<summary>Villain 5: Tharok (Gravemight)</summary>
+
+### Subclans
+- Gravion Guards – Heavy infantry manipulating terrain  
+- Terra Mace Corps – Massive mace specialists  
+- Stonebreaker Division – Area control heavy units  
+- Gravity Wardens – Mid-tier gravitational soldiers  
+- Obstacle Manipulators – Engineers creating battlefield traps  
+- Earthshatter Squad – Heavy artillery and siege units  
+- Crushing Force Battalion – Elite heavy assault soldiers  
+
+</details>
+
+<details>
+<summary>Villain 6: Lysera (Frostveil)</summary>
+
+### Subclans
+- Frost Sentinels – Archers and infantry freezing enemies  
+- Ice Fang Bow Unit – Energy arrow specialists  
+- Chill Guardians – Medium-tier frost units  
+- Absolute Chill Corps – Soldiers slowing enemy movement  
+- Snow Veil Patrol – Stealth frost scouts  
+- Frozen Blade Division – Melee frost specialists  
+- Glacial Phalanx – Elite ice army controlling zones  
+
+</details>
+
+<details>
+<summary>Villain 7: Draven (Stormrider)</summary>
+
+### Subclans
+- Storm Strikers – Lightning-fast assault soldiers  
+- Volt Whip Unit – Electrified melee & ranged attackers  
+- Thunder Guard – Heavy lightning battalion  
+- Storm Shock Division – Area-of-effect lightning units  
+- Lightning Elite Corps – Small elite lightning operatives  
+- Tempest Sentinels – Medium-tier lightning soldiers  
+- Spark Vanguard – Recon & strike lightning unit  
+
+</details>
+
+<details>
+<summary>Villain 8: Korvath (Bloodmoon)</summary>
+
+### Subclans
+- Crimson Phalanx – Life-draining soldiers  
+- Bloodmoon Vanguard – Mid-tier vitality siphon units  
+- Life Eclipse Guards – Special ops controlling vitality fields  
+- Shadow Blood Wardens – Stealth units draining energy  
+- Siphon Artillery – Heavy ranged attackers  
+- Bloodfang Squad – Melee elite fighters  
+- Crimson Elite Corps – Small elite force with lethal skills  
+
+</details>
+
+---
+
+## Heroes – Independent Sub-Subclans
+
+| Hero | Sub-Subclan Name | Abilities / Notes |
+| ---- | ---------------- | ---------------- |
+| Yaswanth | Black Spot Units | Void-based powers; protective aura; Null Shard & Oblivion Scythe |
+| Karthikeya | Ember Abyss Units | Fire-based powers; explosive gauntlets & Flamebow |
+| Silar | Phase Spiral Units | Teleportation & spatial manipulation; Rift Daggers & Infinity Spiral Rod |
+| Tony | Shadow Veil Units | Illusions & stealth; Shadow Shards & Eternal Veil Blades |
+
+**Notes:**  
+- Heroes remain independent but are grouped as **sub-subclans** for story purposes.  
+- Each hero’s army grows across seasons and tiers, from Beginner → OD.  
+- They are **not blood-related** to any villain subclan.  
+
+---
+
+### Usage
+
+- Collapse each villain section in GitHub for easier navigation.  
+- Add leaders, squads, and unique powers inside each subclan.  
+- Perfect for visualizing a massive anime universe hierarchy.
+
+
