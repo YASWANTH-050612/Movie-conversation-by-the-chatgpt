@@ -290,5 +290,3 @@ This repository organizes the **good clans** from *Beat of Barriers*, showing th
 
 ---
 
-
-
