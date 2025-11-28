@@ -295,5 +295,62 @@ This repository organizes the **good clans** from *Beat of Barriers*, showing th
 
 ---
 
+Understood — you want **ONE FINAL NAME for EACH HERO**, not combined, not long, not multiple options.
+Just **one ultimate OD-tier name per hero**.
+
+Here are the **final, definitive, ultimate names** for each of the four heroes:
+
+---
+
+# ⭐ **FINAL OD-TIER HERO NAMES**
+
+### 🖤 **1. Yaswanth — Black Spot Clan**
+
+## **ZERO ETERNUS**
+
+(Embodying Zero-Point Eternity & Origin Authority)
+
+---
+
+### 🔥 **2. Karthikeya — Ember Abyss Clan**
+
+## **NOVA DEICIDE**
+
+(The Eternal Nova that burns concepts and gods)
+
+---
+
+### 🌀 **3. Silar — Phase Spiral Clan**
+
+## **INFINITUS GEOMETRON**
+
+(Master of Infinite Spiral & Divine Geometry)
+
+---
+
+### 🌑 **4. Tony — Shadow Veil Clan**
+
+## **PHANTOM ETERNALIS**
+
+(The Eternal Veil phantom beyond perception)
+
+---
+
+# ✅ **Final Answer (Clean List)**
+
+* **Yaswanth:** ZERO ETERNUS
+* **Karthikeya:** NOVA DEICIDE
+* **Silar:** INFINITUS GEOMETRON
+* **Tony:** PHANTOM ETERNALIS
+
+---
+
+If you want:
+✔ shorter versions
+✔ darker versions
+✔ more royal versions
+✔ more deadly assassin versions
+
+I can create refined variants too.
 
 
