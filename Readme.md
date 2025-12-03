@@ -587,3 +587,127 @@ I can create refined variants too.
 | Rainbow Pixie           | Multicolored magical fairy                                          |
 | Aurora Pegasus          | Northern-lights winged horse                                        |
 
+
+
+
+
+| Name                 | Note / Type / Origin                                       |
+| -------------------- | ---------------------------------------------------------- |
+| Hydra                | Multi-headed serpent — deadly monster, Greek myth          |
+| Cerberus             | Underworld guard-dog — monstrous, Greek                    |
+| Chimera              | Lion-goat-serpent hybrid — chaotic beast, Greek            |
+| Basilisk             | Deadly serpent — can petrify, European myth                |
+| Kraken               | Giant sea monster — ocean terror, Norse/Scandinavian       |
+| Wendigo              | Cannibalistic spirit — Algonquin folklore                  |
+| Oni                  | Demon/ogre — Japanese folklore, evil spirit                |
+| Vetala               | Undead vampire-like spirit — Indian myth                   |
+| Gorgon               | Snake-haired monster — Greek mythology, lethal gaze        |
+| Cyclops              | One-eyed giant — destructive, Greek myth                   |
+| Vampire              | Undead blood-sucking humanoid — global myths               |
+| Werewolf             | Human-wolf shapeshifter — European folklore                |
+| Banshee              | Wailing death spirit — Irish folklore                      |
+| Dullahan             | Headless horseman — Irish folklore                         |
+| Lich                 | Undead sorcerer — magical necromancer variant              |
+| Troll                | Bridge-dwelling giant — Norse/European folklore            |
+| Goblin               | Mischievous, sometimes malevolent — European folklore      |
+| Imp                  | Small trickster demon — European folklore                  |
+| Manticore            | Lion-bodied, scorpion-tailed predator — Persian/Greek myth |
+| Harpy                | Winged female monster — Greek myth, predatory spirit       |
+| Lamia                | Female child-devouring demon — Greek myth                  |
+| Rakshasa             | Shapeshifting demon — Hindu mythology                      |
+| Asura                | Powerful malevolent beings — Hindu myth                    |
+| Jorogumo             | Spider-woman demon — Japanese folklore                     |
+| Nuckelavee           | Horse-like demon — Scottish folklore                       |
+| Yuki-onna            | Snow woman spirit — Japanese folklore, deadly              |
+| Kappa (evil variant) | Mischievous water demon — Japanese myth                    |
+| Strigoi              | Romanian undead vampire — deathly                          |
+| Pontianak            | Female vampiric ghost — Southeast Asian folklore           |
+| Chupacabra           | Creature draining livestock — Latin American legend        |
+| Skinwalker           | Shapeshifter — Navajo folklore, evil variant               |
+| Barghest             | Hellhound — Northern English legend                        |
+| Black Dog            | Death omen spectral dog — UK/Europe folklore               |
+| Draugr               | Undead Viking corpse — Norse myth                          |
+| Fenrir               | Giant wolf — Norse myth, devourer of gods                  |
+| Jotun                | Giant — Norse myth, often hostile                          |
+| Sea Hag              | Evil sea witch — folklore                                  |
+| Sea Serpent          | Malevolent ocean monster — global myths                    |
+| Night Hag            | Dream-eating demon — folklore                              |
+| Revenant             | Vengeful undead — European myth                            |
+| Shadow Beast         | Dark shapeless predator — generic folklore variant         |
+| Dark Sprite          | Corrupted magical being — fantasy variant                  |
+| Vampire Bat          | Magical killer bat — folklore variant                      |
+| Ghoul                | Graveyard-eating undead — Arabian myth                     |
+| Nightcrawler         | Shadow-dwelling worm / monster — fantasy variant           |
+| Chernobog            | Slavic god of darkness — destructive spirit                |
+| Drekavac             | Child-eating ghost — Slavic folklore                       |
+| Tengu                | Malevolent crow-like demon — Japanese folklore             |
+| Oni Lord             | Powerful demon overlord — Japanese myth                    |
+| Balor                | One-eyed giant — Celtic mythology, destructive             |
+| Fomorian             | Malevolent giant race — Celtic myth                        |
+| Black Unicorn        | Dark corrupted unicorn — fantasy variant                   |
+| Shadow Dragon        | Evil-aligned dragon — fantasy variant                      |
+| Doom Phoenix         | Dark fire bird — fantasy death omen                        |
+| Cursed Gryphon       | Evil hybrid guardian — fantasy variant                     |
+| Nightmare            | Horse-demon of dreams — European myth                      |
+| Wraith               | Ethereal death spirit — global folklore                    |
+| Shadow Demon         | Pure dark spirit — fantasy variant                         |
+| Void Serpent         | Corrupted sea/sky dragon — fantasy variant                 |
+| Ash Wyvern           | Fire-aligned villainous dragon — fantasy variant           |
+| Dread Wyvern         | Evil dragon variant — fantasy                              |
+| Dark Sphinx          | Malicious riddle-keeper — Greek/fantasy                    |
+| Blood Drake          | Blood-aligned dragon — fantasy variant                     |
+| Frost Wraith         | Ice-death spirit — fantasy variant                         |
+| Stone Golem (evil)   | Animated destructive construct — fantasy                   |
+| Iron Golem (evil)    | Malicious metallic golem — fantasy                         |
+| Hellhound            | Infernal dog — folklore & fantasy                          |
+| Fire Demon           | Flame-aligned destructive spirit — global myth             |
+| Shadowfiend          | Darkness predator — fantasy variant                        |
+| Void Fiend           | Void-aligned evil creature — fantasy variant               |
+| Soul Eater           | Spirit-devouring monster — fantasy variant                 |
+| Doom Serpent         | Oceanic killer serpent — fantasy variant                   |
+| Poison Drake         | Toxic dragon — fantasy variant                             |
+| Cursed Treant        | Dark corrupted tree guardian — fantasy variant             |
+| Vampire Lord         | Powerful undead vampire — fantasy variant                  |
+| Dark Elf             | Evil-aligned elf variant — fantasy variant                 |
+| Black Nymph          | Corrupted water/forest spirit — fantasy variant            |
+| Shadow Pixie         | Dark mischievous fairy — fantasy                           |
+| Soul Harpy           | Evil flying predator — fantasy variant                     |
+| Nightmare Wyrm       | Evil wyrm / dragon variant — fantasy                       |
+| Dark Kraken          | Giant malevolent sea monster — fantasy                     |
+| Abyss Leviathan      | Oceanic destroyer — fantasy                                |
+| Blood Wraith         | Spirit of vengeance — fantasy                              |
+| Death Moth           | Winged death-aligned insect — fantasy                      |
+| Shadow Scorpion      | Desert predator — evil variant                             |
+| Poison Snake         | Deadly venomous serpent — fantasy                          |
+| Dark Centaur         | Corrupted humanoid beast — fantasy                         |
+| Chaos Griffin        | Evil-aligned hybrid beast — fantasy                        |
+| Fire Demon Lord      | Flame overlord — fantasy variant                           |
+| Ice Demon Lord       | Frozen death overlord — fantasy                            |
+| Storm Demon          | Weather-aligned evil spirit — fantasy                      |
+| Shadow Titan         | Colossal dark being — fantasy                              |
+| Dark Seraph          | Fallen celestial — evil variant                            |
+| Void Angel           | Corrupted angelic being — fantasy                          |
+| Abyssal Horror       | Oceanic terror — fantasy                                   |
+| Dread Beast          | Generic dark predator — fantasy                            |
+| Soulfiend            | Spirit predator — fantasy                                  |
+| Necro Drake          | Undead dragon — fantasy                                    |
+| Bone Dragon          | Skeleton dragon — fantasy                                  |
+| Skull Wyrm           | Undead wyrm — fantasy                                      |
+| Hell Drake           | Fire hell-aligned dragon — fantasy                         |
+| Poison Drake         | Venomous evil dragon — fantasy                             |
+| Shadow Hydra         | Multi-headed dark serpent — fantasy                        |
+| Cursed Phoenix       | Dark reborn bird — fantasy                                 |
+| Blood Raven          | Evil-aligned bird — fantasy                                |
+| Black Owl            | Omen of death — fantasy variant                            |
+| Night Crow           | Dark messenger bird — fantasy                               |
+| Shadow Bat           | Evil nocturnal predator — fantasy                           |
+| Dark Moth            | Night-aligned evil moth — fantasy                           |
+| Phantom Spider       | Ghostly predatory arachnid — fantasy                        |
+| Venom Spider         | Poisonous predator — fantasy                                 |
+| Ice Wyrm             | Frozen evil dragon — fantasy                                 |
+| Flame Wyrm           | Fire evil dragon — fantasy                                   |
+| Bone Wyvern          | Skeleton dragon — fantasy                                     |
+| Doom Lich            | Powerful undead sorcerer — fantasy                            |
+| Shadow Lich          | Dark necromancer — fantasy                                     |
+| Death Knight         | Evil armored warrior — fantasy                                  |
+| Dark Paladin         | Fallen holy knight — fantasy                                    |
