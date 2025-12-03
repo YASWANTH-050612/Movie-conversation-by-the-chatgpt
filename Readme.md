@@ -705,3 +705,32 @@ I can create refined variants too.
 | Shadow Lich          | Dark necromancer — fantasy                                     |
 | Death Knight         | Evil armored warrior — fantasy                                  |
 | Dark Paladin         | Fallen holy knight — fantasy                                    |
+
+
+## Good / Heroic / Allied Forces (Combat-Capable – Indian References Added)
+
+| Name                  | Note / Powers / Battle Role                                 |
+| --------------------  | ---------------------------------------------------------- |
+| Garuda                | Divine bird, mount of Vishnu; fast aerial strikes & swoops |
+| Naga (Good Variant)   | Serpent guardians; water control & magic attacks          |
+| Vanara Warriors       | Monkey-like humanoids; melee combat & ambush tactics       |
+| Airavata              | Celestial elephant; thunderous charge & armored tank       |
+| Kinnara               | Half-human, half-bird; magical aerial support              |
+| Gandaberunda          | Two-headed eagle; destructive aerial power                |
+| Yaksha (Guardian)     | Nature spirits; defensive magic & brute force              |
+| Makara (Good Variant) | Aquatic hybrid; protects river passages, ambush attacks   |
+
+---
+
+## Evil / Villainous / Enemy Forces (Combat-Capable – Indian References Added)
+
+| Name                  | Note / Powers / Battle Role                                 |
+| --------------------  | ---------------------------------------------------------- |
+| Rakshasa              | Shape-shifting demon; melee, magic, and fear attacks       |
+| Asura                 | Powerful malevolent beings; mass destruction & magic       |
+| Vetala                | Undead spirit; possesses corpses, ambush & terror tactics  |
+| Pishacha              | Flesh-eating ghost; stealth predator                       |
+| Naga (Corrupted)      | Poisonous, dark serpent; ambush & area denial              |
+| Preta                 | Hungry spirit; morale-damaging fear tactic                  |
+| Bhuta                 | Evil spirit; elemental attacks and sabotage                |
+| Kirtimukha            | Terrifying face-monster; defense & intimidation            |
