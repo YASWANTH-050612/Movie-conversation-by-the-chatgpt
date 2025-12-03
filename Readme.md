@@ -354,4 +354,5 @@ If you want:
 I can create refined variants too.
 
 
-/mnt/data/d57d7564-f876-4057-a77e-620d6785c2de.png
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d9fce7db-b836-439f-a7fc-ba0715b6945e" />
+
