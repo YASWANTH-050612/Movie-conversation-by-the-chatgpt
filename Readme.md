@@ -358,3 +358,232 @@ I can create refined variants too.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5fdfb4c-159f-40fd-82fa-0906a893cc40" />
 
+
+## Animals
+
+# Unique Animals Compendium
+
+### 1–20: Elemental Animals
+- **Flarefang Wolf** – Breathes small fire bursts; fur ignites briefly in battle.  
+- **Blazehorn Deer** – Horns glow and heat up, used for self-defense.  
+- **Frostclaw Bear** – Sharp icy claws that can freeze enemies.  
+- **Thunderhoof Elk** – Stomps create small shockwaves.  
+- **Ember Serpent** – Slithers leaving trails of embers.  
+- **Stormfin Shark** – Generates electric currents in water.  
+- **Ashwing Crow** – Wings emit smoke, obscuring vision.  
+- **Molten Tortoise** – Lava flows on its shell; impervious to heat.  
+- **Gale Eagle** – Summons gusts with wingbeats.  
+- **Pyrolynx** – Ignites its tail tip for hunting.  
+- **Icevine Viper** – Freezes prey with venom.  
+- **Volcanic Crab** – Lava-cracked shell; lava bursts from claws.  
+- **Sparkback Hound** – Electricity arcs from fur when angry.  
+- **Frostfeather Owl** – Can cloak itself in icy mist.  
+- **Firemane Lion** – Mane burns without harming itself.  
+- **Rockhide Bison** – Stone-like skin resists attacks.  
+- **Cyclone Moth** – Generates mini whirlwinds with wings.  
+- **Emberback Scorpion** – Tail can shoot fire sparks.  
+- **Icehorn Ram** – Horns shatter rocks and ice alike.  
+- **Thunderjaw Crocodile** – Electric bite stuns enemies.  
+
+### 21–40: Mythical/Fantasy Creatures
+- **Shadowfang Panther** – Can become invisible in darkness.  
+- **Moonlit Stag** – Antlers glow under moonlight; magical aura.  
+- **Dreadclaw Raptor** – Scales shimmer with dark energy.  
+- **Spiritfox** – Can phase through walls.  
+- **Nightglider Bat** – Emits hypnotic sonic waves.  
+- **Dreamer Deer** – Eyes induce hallucinations in prey.  
+- **Wraith Owl** – Silent predator; vanishes mid-flight.  
+- **Spectral Stallion** – Can run on clouds or mist.  
+- **Eclipse Panther** – Dark coat absorbs light, creating shadows.  
+- **Phantom Serpent** – Slithers through solid objects.  
+- **Astral Moth** – Wings reflect stars; used in navigation.  
+- **Soulwing Raven** – Carries spirits across realms.  
+- **Celestial Lynx** – Hunts by starlight; fur sparkles.  
+- **Voidfang Tiger** – Can create small gravity wells.  
+- **Nightmare Hound** – Instills fear with a howl.  
+- **Dusk Turtle** – Shell blends into twilight.  
+- **Spirit Elk** – Leaves glowing footprints that reveal hidden paths.  
+- **Lunar Wolf** – Moonlight strengthens its speed and senses.  
+- **Shadowback Cobra** – Hides in shadows; venom darkens prey.  
+- **Gloomfish** – Emits darkness bubbles underwater.  
+
+### 41–60: Aquatic and Amphibious Animals
+- **Neonfin Fish** – Bioluminescent patterns change mood.  
+- **Crystal Crab** – Shell reflects light to dazzle predators.  
+- **Tidecoil Eel** – Generates whirlpools with its body.  
+- **Stormwhale** – Controls currents and underwater storms.  
+- **Glowtoad** – Emits soft lights; used to lure prey.  
+- **Coralback Turtle** – Coral grows naturally on its shell.  
+- **Abyssal Ray** – Dark, glowing manta; emits sonic pulses.  
+- **Inkfang Octopus** – Inks create illusions in water.  
+- **Saltspike Lobster** – Spines launch crystal salt shards.  
+- **Moonjelly Jellyfish** – Bioluminescent and semi-transparent.  
+- **Frostfin Salmon** – Cold-adapted; freezes small ponds temporarily.  
+- **Thundercrab** – Electric pincers; shock predators.  
+- **Shadowstalker Frog** – Blends perfectly with murky waters.  
+- **Luminose Seahorse** – Bioluminescent tail; floats gracefully.  
+- **Icefang Pike** – Sharp frozen teeth.  
+- **Pyroclaw Lobster** – Lava-like claws; lives in hot springs.  
+- **Glowshard Minnow** – Small, glowing, travels in massive schools.  
+- **Wavecoil Serpent** – Swims in spirals, controlling currents.  
+- **Stormskate** – Skims across water while generating sparks.  
+- **Cavefish Phantom** – Eyes glow; adapts to total darkness.  
+
+### 61–80: Insectoid & Small Creatures
+- **Crystal Beetle** – Reflective shell stores light energy.  
+- **Flarefire Ant** – Small fire bursts from abdomen.  
+- **Shadowmoth** – Wings absorb light, cloak movement.  
+- **Glimmerfly** – Trails magical glitter that confuses predators.  
+- **Sparkhopper Grasshopper** – Emits sparks when jumping.  
+- **Icebeetle** – Can chill surfaces it walks on.  
+- **Void Wasp** – Poison induces temporary invisibility.  
+- **Stormlocust** – Creates mini gusts while swarming.  
+- **Mirrorfly** – Reflects surroundings to hide.  
+- **Frostspinner Spider** – Web freezes whatever touches it.  
+- **Ember Antlion** – Burrows while leaving hot sand trails.  
+- **Glowscorpion** – Stinger glows before striking.  
+- **Nightcrawler Worm** – Exudes dark smoke while moving.  
+- **Crystalhopper** – Leaps high using stored energy in legs.  
+- **Thunderbeetle** – Vibrates to generate shockwaves.  
+- **Mistlocust** – Produces fog while flying.  
+- **Blazefly** – Wings ignite to scare predators.  
+- **Shadowspider** – Disappears into its own web shadows.  
+- **Moonfire Firefly** – Leaves temporary glowing trails in the dark.  
+- **Venomgleam Caterpillar** – Fluorescent, releases mild toxins.  
+
+### 81–100: Unique & Hybrid Animals
+- **Quartzback Tortoise** – Crystal shell amplifies magic.  
+- **Skywhale** – Floats in air currents; massive, gentle.  
+- **Ironjaw Salamander** – Metal-like jaw for crushing rocks.  
+- **Stormfang Crocodile** – Can strike with electricity.  
+- **Mistcoil Snake** – Can dissolve into mist.  
+- **Shadowstag** – Antlers cast illusions of multiple deer.  
+- **Firewing Bat** – Can fly at high speeds; wings leave fiery streaks.  
+- **Lunarfang Fox** – Moonlight enhances stealth and speed.  
+- **Thornback Turtle** – Spiky shell releases poison.  
+- **Glimmerclaw Cat** – Fur shimmers to hide or dazzle.  
+- **Stonehide Rhino** – Skin as hard as rock.  
+- **Ashwing Hawk** – Leaves smoke trails; predator in volcano regions.  
+- **Frostmane Horse** – Ice mane; fast in snowy terrains.  
+- **Electrocat Lynx** – Conducts electricity through fur.  
+- **Spectral Hound** – Phases in and out of reality.  
+- **Windcoil Serpent** – Whips tail to create tornadoes.  
+- **Solarhorn Ram** – Horn absorbs sunlight to charge energy attacks.  
+- **Moonshadow Panther** – Stealth predator in moonlight.  
+- **Cinderback Boar** – Ember-like bristles; aggressive.  
+- **Galefin Dragonet** – Small dragon-like fish; flies above water using wind currents.
+
+
+| Name                    | Note / Type / Origin                                   |
+| ----------------------- | ------------------------------------------------------ |
+| Dragon                  | Wise, fire-breathing guardian — universal myths        |
+| Phoenix                 | Rebirth and immortality — Greek/Egyptian/Chinese myths |
+| Unicorn                 | Magical horse with healing powers — European myth      |
+| Griffin                 | Eagle-lion hybrid, guardian of treasures — Greek myth  |
+| Mermaid                 | Benevolent sea spirit — global folklore                |
+| Qilin                   | Chinese good omen beast, dragon-deer hybrid            |
+| Simurgh                 | Persian benevolent bird — healer/guardian              |
+| Pegasus                 | Winged horse — Greek hero companion                    |
+| Hippogriff              | Eagle-horse hybrid — magical mount                     |
+| Dryad                   | Forest tree spirit — Greek                             |
+| Sylph                   | Air spirit — European alchemy/myth                     |
+| Naiad                   | Water spirit — Greek                                   |
+| Garuda                  | Divine bird, protector — Hindu/Buddhist                |
+| Fenghuang               | Chinese phoenix — auspicious bird                      |
+| Lamassu                 | Protective hybrid (lion-bull-eagle) — Mesopotamian     |
+| Selkie                  | Seal-human sea spirit — Celtic/Scottish                |
+| Kelpie (good variant)   | Water horse spirit — can help humans                   |
+| Gnome                   | Earth-dwelling helper — European folklore              |
+| Dwarf                   | Skilled craftsman, usually good — Norse myth           |
+| Elf                     | Magical humanoid — benevolent fairy folk               |
+| Fairy                   | Small magical being — European myth                    |
+| Pixie                   | Mischievous but friendly — English folklore            |
+| Satyr (neutral/good)    | Half-human/half-goat — Greek nature spirits            |
+| Centaur (wise)          | Horse-human hybrid — Greek                             |
+| Hippocampus             | Sea-horse creature — Greek                             |
+| Coral Mermaid           | Sea spirit variant — benevolent                        |
+| Starry Pegasus          | Celestial winged horse — custom variant                |
+| Ice Unicorn             | Magical unicorn — winter variant                       |
+| Flame Phoenix           | Fire phoenix — protection & rebirth                    |
+| Light Fairy             | Magical, friendly fairy — neutral/good                 |
+| Dune Centaur            | Desert variant — wise neutral                          |
+| Hill Dwarf              | Benevolent craftsman — folk variant                    |
+| Woodland Elf            | Forest guardian — European myth                        |
+| Sea Selkie              | Oceanic benevolent variant                             |
+| Golden Qilin            | Rare auspicious creature — Chinese legend              |
+| Thunder Hippogriff      | Storm-aligned guardian mount                           |
+| Water Pegasus           | Oceanic winged horse                                   |
+| Forest Pegasus          | Forest guardian winged horse                           |
+| Desert Dryad            | Desert nature spirit                                   |
+| Night Sprite            | Friendly night spirit                                  |
+| Dawn Dragon             | Sunrise-aligned protective dragon                      |
+| Star Dragon             | Celestial dragon — watcher of the night                |
+| Moon Dragon             | Lunar dragon — protector                               |
+| Frost Fairy             | Ice-aligned magical being                              |
+| Sunbird                 | Fire/sun-aligned bird — heralds warmth                 |
+| Ember Dragon            | Fire-earth hybrid guardian                             |
+| Verdant Elf             | Forest-dwelling magical elf                            |
+| Coral Mermaid           | Oceanic friendly mermaid                               |
+| Snow Hippogriff         | Winter variant of magical mount                        |
+| Rainbow Unicorn         | Magical variant — harmony & light                      |
+| Light Treant            | Tree guardian — benevolent spirit                      |
+| Wind Dragon             | Air-aligned protective dragon                          |
+| Wave Dragon             | Sea-aligned protective dragon                          |
+| Storm Phoenix           | Weather-aligned phoenix — brings rain                  |
+| Forest Nymph            | Gentle forest water/land spirit                        |
+| Mountain Dryad          | Mountain spirit guardian                               |
+| Sun Sprite              | Solar-aligned magical being                            |
+| Moon Sprite             | Night-aligned magical being                            |
+| Cloud Unicorn           | Sky-aligned unicorn variant                            |
+| Star Elf                | Celestial elf variant                                  |
+| Ocean Dragon            | Deep-sea protective dragon                             |
+| Sky Pegasus             | Sky guardian winged horse                              |
+| Celestial Hippogriff    | Star-aligned magical mount                             |
+| Aurora Dragon           | Northern lights guardian dragon                        |
+| Sea Sprite              | Benevolent water spirit                                |
+| Crystal Unicorn         | Magical crystal-aligned unicorn                        |
+| Silver Dragon           | Moonlight dragon — protector                           |
+| Moonlight Pegasus       | Celestial moon horse                                   |
+| Sun Dragon              | Solar dragon — daylight guardian                       |
+| Storm Sylph             | Air/wind elemental — protector                         |
+| Sky Serpent             | Sky-aligned protective dragon                          |
+| Forest Guardian Dryad   | Woodland protector spirit                               |
+| Mountain Guardian Giant | Benevolent mountain giant                               |
+| Crystal Deer            | Magical forest deer                                     |
+| Starry Fox              | Celestial trickster spirit, good-aligned               |
+| Moonlight Fairy         | Night-protecting magical fairy                          |
+| Dawn Unicorn            | Morning unicorn — heralds new day                      |
+| Ocean Guardian Dragon   | Benevolent sea dragon                                   |
+| Sky Seraph              | Celestial guardian spirit                               |
+| Winter Phoenix          | Ice-aligned phoenix                                     |
+| Autumn Treant           | Seasonal tree guardian                                  |
+| Spring Sprite           | Seasonal nature sprite                                  |
+| Summer Sylph            | Seasonal air/wind elemental                             |
+| Lunar Hippogriff        | Moon-aligned magical mount                               |
+| Solar Dragon            | Sun-aligned protective dragon                             |
+| Cloud Nymph             | Sky-aligned gentle spirit                                  |
+| Star Dragonling         | Small celestial dragon — companion                         |
+| River Guardian Naiad    | Protective river water spirit                              |
+| Flame Guardian Tiger    | Magical tiger — fire-aligned protector                     |
+| Crystal Phoenix         | Crystal fire bird — rebirth guardian                        |
+| Light Unicorn           | Pure magical unicorn variant                                 |
+| Mist Dragon             | Fog-aligned dragon — neutral/good                            |
+| Moonlight Nymph         | Lunar forest/water spirit                                      |
+| Dawn Gryphon            | Sunrise guardian griffon                                       |
+| Star Treant             | Celestial tree guardian                                        |
+| Silver Pegasus          | Moonlight-aligned winged horse                                 |
+| Ocean Sprite            | Benevolent water elemental                                     |
+| Wind Unicorn            | Sky/air-aligned magical unicorn                                 |
+| Fire Nymph              | Flame-aligned magical nature spirit                               |
+| Ice Dragon              | Winter-protecting dragon                                           |
+| Sun Pegasus             | Daylight-aligned magical mount                                      |
+| Storm Gryphon           | Weather guardian griffon                                           |
+| Forest Pixie            | Woodland magical pixie                                             |
+| Crystal Dryad           | Gemstone/tree spirit guardian                                      |
+| Light Sylph             | Air/alignment elemental — good                                     |
+| Celestial Nymph         | Star-aligned water/forest spirit                                    |
+| Moonlight Dragon        | Lunar celestial dragon                                               |
+| Dawn Dragonling         | Young protector dragon — good                                       |
+| Rainbow Pixie           | Multicolored magical fairy                                          |
+| Aurora Pegasus          | Northern-lights winged horse                                        |
+
