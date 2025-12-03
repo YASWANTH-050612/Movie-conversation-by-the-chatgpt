@@ -363,115 +363,109 @@ I can create refined variants too.
 
 # Unique Animals Compendium
 
-### 1–20: Elemental Animals
-- **Flarefang Wolf** – Breathes small fire bursts; fur ignites briefly in battle.  
-- **Blazehorn Deer** – Horns glow and heat up, used for self-defense.  
-- **Frostclaw Bear** – Sharp icy claws that can freeze enemies.  
-- **Thunderhoof Elk** – Stomps create small shockwaves.  
-- **Ember Serpent** – Slithers leaving trails of embers.  
-- **Stormfin Shark** – Generates electric currents in water.  
-- **Ashwing Crow** – Wings emit smoke, obscuring vision.  
-- **Molten Tortoise** – Lava flows on its shell; impervious to heat.  
-- **Gale Eagle** – Summons gusts with wingbeats.  
-- **Pyrolynx** – Ignites its tail tip for hunting.  
-- **Icevine Viper** – Freezes prey with venom.  
-- **Volcanic Crab** – Lava-cracked shell; lava bursts from claws.  
-- **Sparkback Hound** – Electricity arcs from fur when angry.  
-- **Frostfeather Owl** – Can cloak itself in icy mist.  
-- **Firemane Lion** – Mane burns without harming itself.  
-- **Rockhide Bison** – Stone-like skin resists attacks.  
-- **Cyclone Moth** – Generates mini whirlwinds with wings.  
-- **Emberback Scorpion** – Tail can shoot fire sparks.  
-- **Icehorn Ram** – Horns shatter rocks and ice alike.  
-- **Thunderjaw Crocodile** – Electric bite stuns enemies.  
+## Good / Heroic / Allied Forces (Combat-Capable)
 
-### 21–40: Mythical/Fantasy Creatures
-- **Shadowfang Panther** – Can become invisible in darkness.  
-- **Moonlit Stag** – Antlers glow under moonlight; magical aura.  
-- **Dreadclaw Raptor** – Scales shimmer with dark energy.  
-- **Spiritfox** – Can phase through walls.  
-- **Nightglider Bat** – Emits hypnotic sonic waves.  
-- **Dreamer Deer** – Eyes induce hallucinations in prey.  
-- **Wraith Owl** – Silent predator; vanishes mid-flight.  
-- **Spectral Stallion** – Can run on clouds or mist.  
-- **Eclipse Panther** – Dark coat absorbs light, creating shadows.  
-- **Phantom Serpent** – Slithers through solid objects.  
-- **Astral Moth** – Wings reflect stars; used in navigation.  
-- **Soulwing Raven** – Carries spirits across realms.  
-- **Celestial Lynx** – Hunts by starlight; fur sparkles.  
-- **Voidfang Tiger** – Can create small gravity wells.  
-- **Nightmare Hound** – Instills fear with a howl.  
-- **Dusk Turtle** – Shell blends into twilight.  
-- **Spirit Elk** – Leaves glowing footprints that reveal hidden paths.  
-- **Lunar Wolf** – Moonlight strengthens its speed and senses.  
-- **Shadowback Cobra** – Hides in shadows; venom darkens prey.  
-- **Gloomfish** – Emits darkness bubbles underwater.  
+| Name                  | Note / Powers / Battle Role                                 |
+| --------------------  | ---------------------------------------------------------- |
+| Flarefang Wolf        | Breathes fire bursts; agile fighter; frontline skirmisher  |
+| Blazehorn Deer        | Horns glow & heat; charges enemies; defensive warrior      |
+| Frostclaw Bear        | Icy claws freeze enemies; tank/bruiser role                |
+| Thunderhoof Elk       | Shockwave stomp; disrupts enemy formations                 |
+| Stormfin Shark        | Electric currents in water; naval assault unit             |
+| Molten Tortoise       | Lava-armored; siege/defensive unit                         |
+| Gale Eagle            | Gusts from wings; aerial control and harassment            |
+| Pyrolynx              | Ignites tail; stealth ambush predator                      |
+| Icevine Viper         | Freezing venom; sabotage/assassin role                     |
+| Sparkback Hound       | Electric fur; fast attack scout                             |
+| Frostfeather Owl      | Cloaks in icy mist; stealth surveillance                   |
+| Firemane Lion         | Burning mane; direct assault                              |
+| Rockhide Bison        | Stone-like skin; frontline tank                             |
+| Cyclone Moth          | Mini whirlwinds; battlefield disruption                     |
+| Emberback Scorpion    | Fire tail attack; skirmisher                                |
+| Icehorn Ram           | Horn shatter; breakthrough enemy lines                     |
+| Thunderjaw Crocodile  | Electric bite; aquatic warfare                             |
+| Shadowfang Panther    | Invisibility; stealth raids                                |
+| Moonlit Stag          | Glowing antlers; morale booster and magical support        |
+| Spiritfox             | Phases through walls; infiltration/assassin unit           |
+| Spectral Stallion     | Runs on clouds; rapid cavalry movement                     |
+| Celestial Lynx        | Starlight hunter; precision attacker                        |
+| Lunar Wolf            | Moonlight boosts speed & senses; reconnaissance            |
+| Forest Pixie          | Woodland ambush tactics; minor magic support               |
+| Quartzback Tortoise    | Crystal shell amplifies magic; defensive caster           |
+| Skywhale               | Airborne support; large aerial bombardment                 |
+| Ironjaw Salamander     | Metal jaw crushes rocks; siege support                     |
+| Mistcoil Snake         | Dissolves into mist; infiltration and ambush               |
+| Firewing Bat           | Fiery wings; fast aerial skirmisher                        |
+| Lunarfang Fox          | Moonlight stealth; reconnaissance                          |
+| Glimmerclaw Cat        | Shimmer camouflage; stealth assassin                       |
+| Stonehide Rhino         | Rock-hard skin; frontline tank                              |
+| Frostmane Horse         | Ice mane; rapid cold assaults                               |
+| Electrocat Lynx         | Conducts electricity; ambush/assassin                      |
+| Spectral Hound          | Phases in/out; counterintelligence & assault               |
+| Windcoil Serpent        | Tail tornado; battlefield disruption                       |
+| Solarhorn Ram           | Horn absorbs sunlight; energy attacks                       |
+| Moonshadow Panther       | Moonlight stealth predator; elite strike                   |
+| Cinderback Boar          | Ember bristles; aggressive frontline warrior               |
+| Galefin Dragonet         | Flying aquatic attacks; hybrid air/water assault           |
 
-### 41–60: Aquatic and Amphibious Animals
-- **Neonfin Fish** – Bioluminescent patterns change mood.  
-- **Crystal Crab** – Shell reflects light to dazzle predators.  
-- **Tidecoil Eel** – Generates whirlpools with its body.  
-- **Stormwhale** – Controls currents and underwater storms.  
-- **Glowtoad** – Emits soft lights; used to lure prey.  
-- **Coralback Turtle** – Coral grows naturally on its shell.  
-- **Abyssal Ray** – Dark, glowing manta; emits sonic pulses.  
-- **Inkfang Octopus** – Inks create illusions in water.  
-- **Saltspike Lobster** – Spines launch crystal salt shards.  
-- **Moonjelly Jellyfish** – Bioluminescent and semi-transparent.  
-- **Frostfin Salmon** – Cold-adapted; freezes small ponds temporarily.  
-- **Thundercrab** – Electric pincers; shock predators.  
-- **Shadowstalker Frog** – Blends perfectly with murky waters.  
-- **Luminose Seahorse** – Bioluminescent tail; floats gracefully.  
-- **Icefang Pike** – Sharp frozen teeth.  
-- **Pyroclaw Lobster** – Lava-like claws; lives in hot springs.  
-- **Glowshard Minnow** – Small, glowing, travels in massive schools.  
-- **Wavecoil Serpent** – Swims in spirals, controlling currents.  
-- **Stormskate** – Skims across water while generating sparks.  
-- **Cavefish Phantom** – Eyes glow; adapts to total darkness.  
+---
 
-### 61–80: Insectoid & Small Creatures
-- **Crystal Beetle** – Reflective shell stores light energy.  
-- **Flarefire Ant** – Small fire bursts from abdomen.  
-- **Shadowmoth** – Wings absorb light, cloak movement.  
-- **Glimmerfly** – Trails magical glitter that confuses predators.  
-- **Sparkhopper Grasshopper** – Emits sparks when jumping.  
-- **Icebeetle** – Can chill surfaces it walks on.  
-- **Void Wasp** – Poison induces temporary invisibility.  
-- **Stormlocust** – Creates mini gusts while swarming.  
-- **Mirrorfly** – Reflects surroundings to hide.  
-- **Frostspinner Spider** – Web freezes whatever touches it.  
-- **Ember Antlion** – Burrows while leaving hot sand trails.  
-- **Glowscorpion** – Stinger glows before striking.  
-- **Nightcrawler Worm** – Exudes dark smoke while moving.  
-- **Crystalhopper** – Leaps high using stored energy in legs.  
-- **Thunderbeetle** – Vibrates to generate shockwaves.  
-- **Mistlocust** – Produces fog while flying.  
-- **Blazefly** – Wings ignite to scare predators.  
-- **Shadowspider** – Disappears into its own web shadows.  
-- **Moonfire Firefly** – Leaves temporary glowing trails in the dark.  
-- **Venomgleam Caterpillar** – Fluorescent, releases mild toxins.  
+## Evil / Villainous / Enemy Forces (Combat-Capable)
 
-### 81–100: Unique & Hybrid Animals
-- **Quartzback Tortoise** – Crystal shell amplifies magic.  
-- **Skywhale** – Floats in air currents; massive, gentle.  
-- **Ironjaw Salamander** – Metal-like jaw for crushing rocks.  
-- **Stormfang Crocodile** – Can strike with electricity.  
-- **Mistcoil Snake** – Can dissolve into mist.  
-- **Shadowstag** – Antlers cast illusions of multiple deer.  
-- **Firewing Bat** – Can fly at high speeds; wings leave fiery streaks.  
-- **Lunarfang Fox** – Moonlight enhances stealth and speed.  
-- **Thornback Turtle** – Spiky shell releases poison.  
-- **Glimmerclaw Cat** – Fur shimmers to hide or dazzle.  
-- **Stonehide Rhino** – Skin as hard as rock.  
-- **Ashwing Hawk** – Leaves smoke trails; predator in volcano regions.  
-- **Frostmane Horse** – Ice mane; fast in snowy terrains.  
-- **Electrocat Lynx** – Conducts electricity through fur.  
-- **Spectral Hound** – Phases in and out of reality.  
-- **Windcoil Serpent** – Whips tail to create tornadoes.  
-- **Solarhorn Ram** – Horn absorbs sunlight to charge energy attacks.  
-- **Moonshadow Panther** – Stealth predator in moonlight.  
-- **Cinderback Boar** – Ember-like bristles; aggressive.  
-- **Galefin Dragonet** – Small dragon-like fish; flies above water using wind currents.
+| Name                  | Note / Powers / Battle Role                                 |
+| --------------------  | ---------------------------------------------------------- |
+| Dreadclaw Raptor       | Dark energy scales; ambush predator                        |
+| Nightglider Bat        | Hypnotic sonic waves; disrupts morale                      |
+| Dreamer Deer           | Hallucinatory gaze; psychological warfare                  |
+| Wraith Owl             | Silent, deadly; surprise aerial attacks                    |
+| Eclipse Panther        | Shadow absorption; stealth killer                          |
+| Phantom Serpent        | Phases through objects; assassin unit                      |
+| Soulwing Raven         | Carries spirits; fear/terror tactics                       |
+| Voidfang Tiger         | Creates gravity wells; battlefield disruption             |
+| Nightmare Hound        | Fear instillation; terror unit                              |
+| Dusk Turtle            | Twilight camouflage; ambush defender                       |
+| Shadowback Cobra       | Venom darkens prey; poison strikes                          |
+| Gloomfish              | Darkness bubbles; underwater ambush                         |
+| Neonfin Fish           | Mood-changing bioluminescence; distraction & lure          |
+| Crystal Crab           | Reflects light; dazzle attack                               |
+| Tidecoil Eel           | Generates whirlpools; water control                        |
+| Stormwhale             | Underwater storm control; naval warfare                     |
+| Glowtoad               | Lures prey; ambush specialist                                |
+| Abyssal Ray            | Sonic pulses; underwater area control                        |
+| Inkfang Octopus        | Illusion ink; escape & sabotage                               |
+| Saltspike Lobster      | Crystal salt spikes; direct assault                           |
+| Moonjelly Jellyfish    | Bioluminescent stings; crowd control                          |
+| Frostfin Salmon        | Freezes areas; slows enemy units                               |
+| Thundercrab            | Electric pincers; shock frontline                               |
+| Shadowstalker Frog     | Murky camouflage; assassins                                       |
+| Luminose Seahorse      | Bioluminescent tail; misdirection                                  |
+| Icefang Pike           | Frozen teeth; ambush predator                                      |
+| Pyroclaw Lobster       | Lava-like claws; aggressive strike                                 |
+| Glowshard Minnow       | School swarm attack; distraction                                   |
+| Wavecoil Serpent       | Spiral water attack; disruption                                      |
+| Stormskate             | Skims water; lightning strikes                                      |
+| Cavefish Phantom       | Glowing eyes; darkness control                                       |
+| Crystal Beetle         | Light storage; reflective attacks                                     |
+| Flarefire Ant          | Tiny fire bursts; swarm tactics                                      |
+| Shadowmoth             | Absorbs light; stealth infiltration                                   |
+| Glimmerfly             | Glitter trails; confuse enemies                                       |
+| Sparkhopper Grasshopper | Sparks while jumping; minor area damage                               |
+| Icebeetle              | Chills surface; slows enemies                                           |
+| Void Wasp              | Poison induces invisibility; sabotage                                   |
+| Stormlocust            | Gust generation; swarm attacks                                          |
+| Mirrorfly              | Reflects surroundings; camouflage/ambush                                |
+| Frostspinner Spider     | Freezing web; immobilizes enemies                                      |
+| Ember Antlion           | Hot sand burrow; traps & ambush                                         |
+| Glowscorpion            | Stinger glows; venomous strike                                         |
+| Nightcrawler Worm       | Dark smoke; battlefield disruption                                     |
+| Crystalhopper           | Leaps high; surprise attack                                             |
+| Thunderbeetle           | Shockwaves; crowd control                                               |
+| Mistlocust              | Fog generation; misdirection                                            |
+| Blazefly                | Igniting wings; scare & damage                                          |
+| Shadowspider            | Disappears; stealth attacks                                             |
+| Moonfire Firefly        | Glowing trails; distraction & minor attack                               |
+| Venomgleam Caterpillar  | Mild toxins; harassment                                                 |
+
 
 
 | Name                    | Note / Type / Origin                                   |
